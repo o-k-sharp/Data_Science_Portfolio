@@ -6,3 +6,6 @@ This is a sample section for initial portfolio creation
 ## Heading 2
 
 ### Headings 3
+
+# Images
+![give your image a name]{image path e.g. /assets/image_name.png}
