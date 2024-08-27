@@ -34,6 +34,8 @@ for data manipulation, Scikit-learn for data analysis and Matplotlib and Seaborn
 
 
 #### Steam Data ETL Pipeline image
+![ScreenShot: ETL Pipeline](assets/Game Analysis Images/Steam Data ETL Pipline.jpg)
+* Figure 1: Steam Data ELT Pipeline *
 
 Challenges included handling non-numeric variables, currency conversion, missing values, and special characters. These issues were resolved during the data 
 transformation stage, as depicted in Figure 2.
